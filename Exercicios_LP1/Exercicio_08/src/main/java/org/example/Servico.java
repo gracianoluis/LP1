@@ -1,4 +1,4 @@
-package Exercicio_07;
+package org.example;
 
 public class Servico {
     private String descricao;

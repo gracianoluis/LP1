@@ -1,4 +1,4 @@
-package Exercicio_07;
+package org.example;
 
 public class Medicamento {
     private String nome;

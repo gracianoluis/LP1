@@ -1,4 +1,4 @@
-package Exercicio_07;
+package org.example;
 
 public class Main07 {
     public static void main(String[] args) {
@@ -12,7 +12,6 @@ public class Main07 {
 
         System.out.println("\n--- Teste Feira ---");
         morango.calcularPreco(2.5);
-        morango.verificarQualidade();
 
         System.out.println("\n--- Teste Salão ---");
         corte.agendar();
