@@ -1,5 +1,9 @@
 package org.example;
 
+import org.example.farmacia.models.Medicamento;
+import org.example.feira.models.Fruta;
+import org.example.salao.Servico;
+
 public class Main07 {
     public static void main(String[] args) {
         Medicamento med = new Medicamento("Amoxicilina", 50.0, true);
